@@ -1,0 +1,8 @@
+E:\ASSIGNMENT\interf2\interf2\bin\Debug\interf2.exe.config
+E:\ASSIGNMENT\interf2\interf2\bin\Debug\interf2.exe
+E:\ASSIGNMENT\interf2\interf2\bin\Debug\interf2.pdb
+E:\ASSIGNMENT\interf2\interf2\obj\Debug\interf2.csproj.AssemblyReference.cache
+E:\ASSIGNMENT\interf2\interf2\obj\Debug\interf2.csproj.SuggestedBindingRedirects.cache
+E:\ASSIGNMENT\interf2\interf2\obj\Debug\interf2.csproj.CoreCompileInputs.cache
+E:\ASSIGNMENT\interf2\interf2\obj\Debug\interf2.exe
+E:\ASSIGNMENT\interf2\interf2\obj\Debug\interf2.pdb
