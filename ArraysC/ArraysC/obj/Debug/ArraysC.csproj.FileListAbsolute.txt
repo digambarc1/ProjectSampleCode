@@ -1,0 +1,8 @@
+E:\ASSIGNMENT\ArraysC\ArraysC\bin\Debug\ArraysC.exe.config
+E:\ASSIGNMENT\ArraysC\ArraysC\bin\Debug\ArraysC.exe
+E:\ASSIGNMENT\ArraysC\ArraysC\bin\Debug\ArraysC.pdb
+E:\ASSIGNMENT\ArraysC\ArraysC\obj\Debug\ArraysC.csproj.AssemblyReference.cache
+E:\ASSIGNMENT\ArraysC\ArraysC\obj\Debug\ArraysC.csproj.SuggestedBindingRedirects.cache
+E:\ASSIGNMENT\ArraysC\ArraysC\obj\Debug\ArraysC.csproj.CoreCompileInputs.cache
+E:\ASSIGNMENT\ArraysC\ArraysC\obj\Debug\ArraysC.exe
+E:\ASSIGNMENT\ArraysC\ArraysC\obj\Debug\ArraysC.pdb
